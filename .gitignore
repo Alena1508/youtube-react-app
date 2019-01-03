@@ -1,0 +1,6 @@
+node_modules
+config
+frontend
+app/javascripts
+.yarnclean
+dist

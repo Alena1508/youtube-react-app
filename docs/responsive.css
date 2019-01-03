@@ -1,0 +1,88 @@
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+/*first section*/
+  .top {
+    padding-bottom: 25px;
+  }
+  .top h1 {
+    font-size: 75px;
+    margin-top: 0px;
+  }
+  .top img {
+    height: 260px;
+  }
+  .top p {
+    line-height: 28px;
+    font-size: 28px;
+  }
+  .top-button {
+    margin-top: 35px;
+    font-size: 24px;
+  }
+  .under-button {
+    font-size: 24px !important;
+  }
+  .under-button-span {
+    font-size: 20px;
+  }
+/*second section*/
+  .second {
+    /*height: 1200px;
+    padding: 50px 0px;*/
+  }
+  .second h1 {
+    /*margin-bottom: 50px;*/
+  }
+  /*.image-box {
+    height: 1000px;
+    flex-direction: column;
+  }
+  .first-img {
+    top: 0px;
+    bottom: inherit;
+    right: inherit;
+    left: 170px;
+  }
+  .second-img {
+   bottom: 280px;
+   left: 138px;
+   margin: inherit;
+  }
+  .third-img {
+    left: 170px;
+  }*/
+/*third section*/
+  .third div {
+    width: 500px;
+  }
+  .third h1 {
+    font-size: 50px;
+  }
+  .third p {
+    font-size: 28px;
+  }
+/*forth section*/
+  .forth h1 {
+    font-size: 50px;
+  }
+  .forth p {
+    font-size: 28px;
+  }
+/*DOWNLOAD SECTION*/
+  .downloads h1 {
+    font-size: 50px;
+  }
+  .downloads p {
+    width: 50%;
+    font-size: 24px;
+    line-height: 24px;
+  }
+/*FOOTER SECTION*/
+  footer p, a {
+    font-size: 24px;
+  }
+
+}
